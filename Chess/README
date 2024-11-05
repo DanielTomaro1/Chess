@@ -1,0 +1,5 @@
+This is a chess game developed by myself using youtube tutorials. Main.py contains the main script and basic rules of chess
+constants.py contains all the essentials and as you would expect, constants
+additions.py contains all the extras such as castling and en passant for a complete chess game
+
+Cheers
